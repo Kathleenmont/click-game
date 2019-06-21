@@ -1,0 +1,11 @@
+.score-area {
+    color: black;
+    margin-top: -35px;
+    height: 55px;
+    padding: 10px;
+    background: #BD632F;
+    text-align: center;
+}
+.topScore {
+    padding-left: 20px;
+}

@@ -1,0 +1,21 @@
+.container {
+    padding-top: 50px;
+    background: white;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  };
+
+  .container-fluid {
+    width: 100%
+  }
+
+  .wrapper {
+      max-width: 100%;
+      max-width: 1000px;
+  }
+  
